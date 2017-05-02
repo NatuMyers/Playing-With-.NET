@@ -1,0 +1,8 @@
+/Users/natumyers/Code/dotnet/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/natumyers/Code/dotnet/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/natumyers/Code/dotnet/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/natumyers/Code/dotnet/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/natumyers/Code/dotnet/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/natumyers/Code/dotnet/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/natumyers/Code/dotnet/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/natumyers/Code/dotnet/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
